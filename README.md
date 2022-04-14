@@ -15,3 +15,8 @@ React.js, Node.js, Express.js, JavaScript, Redux, MS Office Suite, Adobe Creativ
 - 📫 How to reach me: visit my site at https://roxanneweber.com and connect with me there.
 - ⚡ Fun fact: For fun, I'm a professional voice over talent, having voiced national and international radio and TV commercials as well as telephone prompts and answering machine messages.
 
+<img
+  src=""
+  alt="My Soft Skills"
+  title="My Soft Skills"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
