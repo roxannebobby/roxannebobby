@@ -16,7 +16,7 @@ React.js, Node.js, Express.js, JavaScript, Redux, MS Office Suite, Adobe Creativ
 - ⚡ Fun fact: For fun, I'm a professional voice over talent, having voiced national and international radio and TV commercials as well as telephone prompts and answering machine messages.
 
 <img
-  src=""
+  src="https://github.com/roxanneweber/roxanneweber/commit/15ba7ae27677b21fe2ae7a2ad76e5bd37ecda580#diff-39353712c15f406d1d681f1d3b58335fc3b12a88ca7b6780b061df2d626953c7"
   alt="My Soft Skills"
   title="My Soft Skills"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
