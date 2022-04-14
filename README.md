@@ -14,5 +14,4 @@ React.js, Node.js, Express.js, JavaScript, Redux, MS Office Suite, Adobe Creativ
 - 💬 Ask me about my previous experiences working with stakeholders, technical staff and IT managers helping direct and lead project development processes.
 - 📫 How to reach me: visit my site at https://roxanneweber.com and connect with me there.
 - ⚡ Fun fact: For fun, I'm a professional voice over talent, having voiced national and international radio and TV commercials as well as telephone prompts and answering machine messages.
-https://github.com/roxanneweber/roxanneweber/blob/main/My%20soft%20skills%20infographic.png
 
