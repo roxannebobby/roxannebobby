@@ -1,21 +1,29 @@
-# Hi there 👋 I'm Roxanne
-## I'm a Full Stack Web Developer searching for the perfect opportunity to let my skills shine. Read more about me below.
+<h1 align="center">Hi 👋, I'm Roxanne Weber</h1>
+<h3 align="center">A passionate full stack web developer from the U.S.</h3>
 
-I'm a Results-oriented and highly competent Web Developer with experience building responsive and accessible web pages while adhering to industry-standard frameworks. Well-versed in all stages of the web development process, including information gathering, planning, design, development, testing and delivery, and maintenance. Possesses a "go-getter" work ethic to learn the business context quickly and immediately make an impact by delivering solutions in a short time frame.
-   
-   • Adept at identifying issues with existing web designs, creating innovative new software programs with complimentary troubleshooting skills.
-   
-   • Passionate about exploring and experimenting with the latest technologies; understands both the current technology and potential new replacement technologies and assists the customer with evaluating alternatives for the future.
-   
-   • Talent for collaboration with Developers, Architects, Product Managers, and CTOs, as well as managing multiple opportunities, projects, and priorities concurrently.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roxanneweber" alt="roxanneweber" /></a> </p>
 
-TECHNICAL PROFICIENCIES
+- 🔭 I’m currently working on [move-house-app](n/a)
 
-React.js, Node.js, Express.js, JavaScript, Redux, MS Office Suite, Adobe Creative Suite, CSS, HTML, SQL Database, API/JSON, and MS Power BI.
+- 🌱 I’m currently learning **Python**
 
-- 🔭 I’m currently working on creating an amazing portfolio at https://roxanneweber.com/
-- 🌱 I’m currently learning new technologies to broaden my skills, including Python and others.
-- 💬 Ask me about my previous experiences working with stakeholders, technical staff and IT managers helping direct and lead project development processes.
-- 📫 How to reach me: visit my site at https://roxanneweber.com and connect with me there.
-- ⚡ Fun fact: For fun, I'm a professional voice over talent, having voiced national and international radio and TV commercials as well as telephone prompts and answering machine messages.
+- 👨‍💻 All of my projects are available at [https://roxanneweber.com](https://roxanneweber.com)
 
+- 💬 Ask me about **my previous experiences working with stakeholders, technical staff and IT managers helping direct and lead project development processes.**
+
+- 📫 How to reach me **contactme@roxanneweber.com**
+
+- ⚡ Fun fact **I'm a professional voice over talent, having voiced national and international radio and TV commercials as well as telephone prompts and answering machine messages.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/roxanneweber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roxanneweber" height="30" width="40" /></a>
+<a href="https://fb.com/roxannemweber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="roxannemweber" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roxanneweber&show_icons=true&locale=en&layout=compact" alt="roxanneweber" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roxanneweber&show_icons=true&locale=en" alt="roxanneweber" /></p>
