@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roxanne Weber</h1>
 <h3 align="center">A passionate full stack web developer from the U.S.</h3>
 
-- 🔭 I’m currently working on [move-house-app](n/a)
+- 🔭 I’m currently working on a [movie house app](https://github.com/roxanneweber?tab=projects&type=beta)
 
 - 🌱 I’m currently learning **Python**
 
