@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://roxanneweber.com](https://roxanneweber.com)
+- 👨‍💻 Some of my projects are available at [https://roxanneweber.com](https://roxanneweber.com)
 
 - 💬 Ask me about **my previous experiences working with stakeholders, technical staff and IT managers helping direct and lead project development processes.**
 
