@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 Some of my projects are available at [https://roxanneweber.com](https://roxanneweber.com)
-
 - 💬 Ask me about **my previous experiences working with stakeholders, technical staff and IT managers helping direct and lead project development processes.**
 
-- 📫 How to reach me **roxbobby@outlook.com**
+- 📫 How to reach me **roxbobby@duck.com**
 
 - ⚡ Fun fact **I'm a professional voice over talent, having voiced national and international radio and TV commercials as well as telephone prompts and answering machine messages.**
 
